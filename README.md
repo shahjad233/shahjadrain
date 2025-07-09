@@ -1,49 +1,72 @@
-# shahjadrain
-<h1 align="center">Hi 👋, I'm Shahjad Rain</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=Shahjad%20Rain🚀&fontSize=45&fontAlignY=40&fontColor=ffffff" />
+</div>
 
+<h2 align="center">Hi 👋, I'm <span style="color:#38BDF8">Shahjad Rain</span></h2>
+<h4 align="center">🚀 A passionate MERN Stack Developer from India 🇮🇳</h4>
+
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+AWS;Always+Learning+New+Things!" />
-</p>
-
-- 🔭 I’m currently working on **an E-learning App using MERN & Django**
-
-- 🌱 I’m currently learning **AWS, DevOps, and System Design**
-
-- 👨‍💻 All of my projects are available at
-
-- 💬 Ask me about **React, Node.js, MongoDB, Python, Java**
-
-- 📫 How to reach me: **shahjadra233@gmail.com**
-
-- ⚡ Fun fact: *I love early morning walks and building cool UIs*
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,tailwind,js,ts,python,java,aws,firebase,vercel,git,github" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+%7C+AWS;Building+E-learning+Platforms;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 ---
 
+### 🧠 About Me
 
+- 🔭 Currently building **an E-learning App** using **MERN & Django**
+- 🌱 Learning **AWS**, **DevOps**, and **System Design**
+- 💬 Ask me about: **React, Node.js, MongoDB, Python, Java**
+- 📫 Reach me at: [shahjadra233@gmail.com](mailto:shahjadra233@gmail.com)
+- ⚡ Fun fact: *I love early morning walks, biking, and discovering new tech trends!*
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,python,java,aws,firebase,git,github,vercel&theme=dark" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahjadrain&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shahjadrain&theme=tokyonight&hide_border=false&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjadrain&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahjadrain&theme=onedark&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahjadrain&theme=tokyonight&row=1&column=7&margin-w=15" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shahjad-rain-developer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:shahjadra233@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/shahjadrain"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/shahjad-rain-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shahjadra233@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shahjadrain" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+<!-- Footer Background -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+</div>
