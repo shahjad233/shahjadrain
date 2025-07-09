@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS, DevOps, and System Design**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **React, Node.js, MongoDB, Python, Java**
 
@@ -28,12 +28,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahjadrain&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahjadrain&theme=radical" />
-</p>
 
 ---
 
